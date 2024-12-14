@@ -1,7 +1,7 @@
 # About Me #
 
 
-<img src="./img/banner.png" alt="My Logo" title="My Logo" width="150">
+<img src="./img/banner.png" alt="My Logo" title="My Logo" width="500">
 
 
 
