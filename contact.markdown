@@ -4,6 +4,7 @@
 [![GitHub](https://via.placeholder.com/150x50/24292F/FFFFFF?text=GITHUB)](https://github.com/CodeCary80) 
 [![Twitter](https://via.placeholder.com/150x50/1DA1F2/FFFFFF?text=TWITTER)](https://x.com/zhu72286)
 
+[Tianrui ZHu](in/tianrui-zhu-a443bb262) On Linkdin
 
 
 [Home](./index.markdown)
