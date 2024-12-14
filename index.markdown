@@ -21,5 +21,7 @@ Contact me at:
 [![Twitter](https://via.placeholder.com/150x50/1DA1F2/FFFFFF?text=TWITTER)](https://x.com/zhu72286)
 
 
-[My Projects](./projects.markdown)
+[Home](./index.markdown)
+[Contact](./contact.markdown)
+[Projects](./projects.markdown)
 
