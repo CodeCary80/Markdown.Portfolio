@@ -1,7 +1,7 @@
 # About Me #
 
 ## Skills ##
-![HTML/CSS/JS](./img/htmlcssjs.png "HTML/CSS/JS") ![React](./img/react.png "React") ![SQL](./img/SQL.png "SQL") ![UX Design](./img/UX-picture.jpg "UX")
+<img src="./img/htmlcssjs.png" alt="HTML/CSS/JS" title="HTML/CSS/JS" width="100" height="100"><img src="./img/react.png" alt="React" title="React" width="100" height="100"><img src="./img/SQL.png" alt="SQL" title="SQL" width="100" height="100"><img src="./img/UX-picture.jpg" alt="UX" title="UX" width="100" height="100">
 
 ---
 
@@ -9,7 +9,7 @@
 
 Hey there! I'm Cary, a spirited newbie web developer in my prime, who's recently discovered a burning passion for tech.
 
-![My Logo](./img/logo.png "My Logo")
+<img src="./img/logo.png" alt="My Logo" title="My Logo" width="150">
 
 ---
 
